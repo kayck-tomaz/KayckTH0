@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kayck, estudante em TI!
 
 - 📚 Atualmente cursando ensino técnico
-- 🖥️ Estudando JavaScript e HTML/CSS
+- 🖥️ Estudando JavaScript, HTML/CSS e Php
 - 😄 Pronouns: ele/dele
 
 <div>
