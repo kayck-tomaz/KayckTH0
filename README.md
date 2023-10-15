@@ -2,8 +2,8 @@
 <p align="center">Hi Hi</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=KayckTH0&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-KayckTH0.vercel.app/api/top-langs/?username=KayckTH0&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kayck-tomaz&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-kayck-tomaz.vercel.app/api/top-langs/?username=kayck-tomaz&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
