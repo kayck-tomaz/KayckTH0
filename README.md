@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://25.media.tumblr.com/a3e236c93c6c76f09a97bfa2f039dbbd/tumblr_mronq43r9u1sf31zro1_500.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
